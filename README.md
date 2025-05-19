@@ -80,5 +80,7 @@ for char, code in huffman_codes.items():
 
 ![image](https://github.com/user-attachments/assets/411d9f0a-4602-4d71-a205-c3ee490fccb2)
 
+![image](https://github.com/user-attachments/assets/6bd05459-8efa-401a-9dd6-be5acc47916f)
+
 ## Result
 Thus the huffman coding was implemented to compress the data using python programming.
